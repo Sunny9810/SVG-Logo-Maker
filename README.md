@@ -41,8 +41,11 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 5. Once completed a SVG file named "logo.svg" will be created.
 6. At your discretion, you may rename the "logo.svg" file to the file name of your choice.
 
+* Please note, if you run on commend line multiplule times it will override previous logo.svg file. 
+
 # Walkthrough Video:
 
+[Solution URL Link:](https://github.com/Sunny9810/SVG-Logo-Maker/issues/1#issue-1684388081)
 
 ## Installation Process
 
